@@ -1,0 +1,32 @@
+From hfghdgfh@kjhdkfg.com  Wed Mar 27 15:37:43 2019
+Return-Path: <hfghdgfh@kjhdkfg.com>
+X-Original-To: iiodfjgidfjg@djfisjfisfs.com
+Delivered-To: iiodfjgidfjg@djfisjfisfs.com
+Received: from forward104p.mail.test.net (forward104p.mail.test.net [77.88.28.107])
+        by host1.test.test (Postfix) with ESMTP id 6B1671AC003F
+        for <iiodfjgidfjg@djfisjfisfs.com>; Wed, 27 Mar 2019 15:37:43 +0300 (MSK)
+Received: from host2.test.test (host2.test.test [IPv6:2a02:6b8:0:1472:2741:0:8b7:91])
+        by forward104p.mail.test.net (test) with ESMTP id 286FC4B010CA
+        for <iiodfjgidfjg@djfisjfisfs.com>; Wed, 27 Mar 2019 15:37:43 +0300 (MSK)
+Received: from localhost (localhost [::1])
+        by host2.test.test (nwsmtp/test) with ESMTP id QqmsCD1PWf-bg5qcVfV;
+        Wed, 27 Mar 2019 15:37:42 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=kjhdkfg.com; s=mail; t=1553690262;
+        bh=4ogpo54k6gop56kgoFN/fKZTJf0QEGBCM8=;
+        h=Message-Id:Date:Subject:To:From;
+        b=kl56jglk56jgkl56jlgk5j6klg/l56kjgkl56g+5k6gkl5/Obn34FKL5BUpr
+         QCus3Weqr4URWaFR6GRBzpHLR3Cpg9cc2QmwMcw3kNbTDywkD09U7elPdKqsxjxW8W
+         b7wwq8J236W1zLjHMXmT+C9BFedOzIBoxjNZwdck=
+Authentication-Results: host2.test.test; dkim=pass header.i=@kjhdkfg.com
+Received: by ghgj4h5-964eae3a5b05.test.test.net with HTTP;
+        Wed, 27 Mar 2019 15:37:42 +0300
+From: hfghdgfh@kjhdkfg.com
+To: iiodfjgidfjg@djfisjfisfs.com
+Subject: Checking
+MIME-Version: 1.0
+Date: Wed, 27 Mar 2019 15:37:42 +0300
+Message-Id: <2542401553690262@hkjhkjhkj5.test.test.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html
+
+<div xmlns="http://www.w3.org/1999/xhtml">Hello world</div>

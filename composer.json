@@ -1,0 +1,28 @@
+{
+    "name": "yaklimuk/mboxreader",
+    "description": "This package allows to parse mbox files, filter messages by subject, subject regex, sender and date. It also allows to parse attachments and filter messages by the attachment's filename or it's regex",
+    "keywords": ["email", "mbox", "parser"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaroslav Klimuk",
+            "email": "klimuk.yaroslav@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YaroslavKlimuk\\MboxReader\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YaroslavKlimuk\\MboxReader\\Tests\\": "tests/"
+        }
+    }
+}
