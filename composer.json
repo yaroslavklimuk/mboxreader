@@ -10,7 +10,7 @@
             "email": "klimuk.yaroslav@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "~6.0"
